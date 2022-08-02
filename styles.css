@@ -1,0 +1,34 @@
+h1 {
+    text-align: center;
+    font-family: monospace;
+    font-size: 40px;
+  }
+  
+  h2 {
+    text-align: center;
+    color: purple;
+    font-family: helvetica;
+  }
+  
+  .center {
+    margin-left: auto;
+    margin-right: auto;
+  }
+  
+  thead {
+    background-color: Pink;
+    font-family: fantasy;
+  
+  }
+  
+  table, td, th {
+    border: 1px solid purple;
+    border-collapse: separate;
+    border-spacing: 2 2px;
+  }
+  
+  td {
+    background-color: lightgray;
+    font-family: Arial;
+  }
+  
